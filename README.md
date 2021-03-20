@@ -1,3 +1,3 @@
-# `.github`
+# .github
 
 Account-level `.github` directory.
